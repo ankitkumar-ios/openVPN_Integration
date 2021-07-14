@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_OpenVPNIntegration_OpenVPNIntegrationUITests : NSObject
+@end
+@implementation PodsDummy_Pods_OpenVPNIntegration_OpenVPNIntegrationUITests
+@end

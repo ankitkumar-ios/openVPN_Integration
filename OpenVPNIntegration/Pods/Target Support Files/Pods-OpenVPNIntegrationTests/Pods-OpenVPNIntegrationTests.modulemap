@@ -1,0 +1,6 @@
+framework module Pods_OpenVPNIntegrationTests {
+  umbrella header "Pods-OpenVPNIntegrationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
